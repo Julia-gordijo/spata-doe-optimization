@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated dataset and this repository."
+title: "Design of Experiments and Response-Surface Optimization for SpATA-Catalyzed Carbohydrate Amination"
+type: software
+version: 1.0.0
+date-released: 2026-08-28
+authors:
+  - family-names: Gordijo
+    given-names: Julia Silva
+    orcid: "https://orcid.org/0009-0005-3502-6360"
+    affiliation: "University of Toronto"
+  - family-names: Feng
+    given-names: Xuebin
+    orcid: "https://orcid.org/0009-0007-4850-3108"
+    affiliation: "University of Toronto"
+  - family-names: Master
+    given-names: Emma R.
+    orcid: "https://orcid.org/0000-0002-6837-9817"
+    affiliation: "University of Toronto"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22086423"
+    description: "Associated dataset"
+keywords:
+  - biocatalysis
+  - amine transaminase
+  - amino sugars
+  - design of experiments
+  - response surface methodology
+  - multivariable optimization
+

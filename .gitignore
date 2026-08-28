@@ -1,0 +1,18 @@
+.DS_Store
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Experimental data are archived on Zenodo.
+*.xls
+*.xlsx
+*.csv
+
+# Notebook-generated reports and figures.
+*.png
+*.pdf
+*.html
+RSM_summary_report.txt
+

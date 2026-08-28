@@ -23,7 +23,7 @@ The workflow:
 │   └── README.md
 ├── .gitignore
 ├── CITATION.cff
-├── LICENSE_SELECTION_REQUIRED.md
+├── LICENSE
 ├── README.md
 └── requirements.txt
 ```
